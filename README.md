@@ -9,7 +9,7 @@ data is in `/ddnet-server/data`
 # Tested on:
 - RaspberryPi 5 using Raspbian64
 
-# Build with:
+# Builds with:
 - Websockets
 - Sqlite
 - Upnp

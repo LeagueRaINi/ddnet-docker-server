@@ -1,5 +1,5 @@
 # Docker file for running a simple ddnet server
-server directory is `/ddnet-server`, data is in `/ddnet-server/data`
+data is in `/ddnet-server/data`
 
 # How to use:
 - download or clone this repository
